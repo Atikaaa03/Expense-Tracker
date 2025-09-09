@@ -49,6 +49,6 @@ npm start
 5. Open the app in your browser at http://localhost:3000/
 
 ## *Screenshot*
-<img width="812" height="731" alt="Screenshot 2025-09-10 003830" src="https://github.com/user-attachments/assets/e77348f4-65f6-437d-b311-a661cee13aee" />
-<img width="860" height="617" alt="Screenshot 2025-09-10 003843" src="https://github.com/user-attachments/assets/8a9127c9-5adf-489b-8af4-93ada8bcadb8" />
+![Dashboard Screenshot](https://github.com/Atikaaa03/Expense-Tracker/blob/main/S1.png?raw=true)
+![Form Screenshot](https://github.com/Atikaaa03/Expense-Tracker/blob/main/S2.png?raw=true)
 
